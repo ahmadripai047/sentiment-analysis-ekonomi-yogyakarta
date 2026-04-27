@@ -17,7 +17,15 @@ Proyek ini bertujuan untuk melakukan analisis sentiment pada berita-berita ekono
 
 ## 📊 Dataset
 
-Dataset terdiri dari artikel berita ekonomi Yogyakarta yang diambil dari berbagai portal berita online Indonesia. Dataset telah melalui proses preprocessing dan pelabelan sentiment.
+Dataset diperoleh melalui teknik **Web Scraping** dari Google News dengan kata kunci "ekonomi Yogyakarta","inflasi yogyakarta","pariwisata yogyakarta", dan "perdagangan yogyakarta". Dataset terdiri dari artikel dari beberapa portal berita ekonomi Yogyakarta yang telah melalui proses preprocessing dan pelabelan sentiment.
+
+**Dataset dapat diunduh di**: [Google Drive - Dataset Lengkap](https://drive.google.com/drive/folders/1_GjVaFYOCiH4Zpk5Sf2JL3l9kzKKtKOe?usp=drive_link)
+
+### 📥 Download Dataset
+
+1. **Dataset Mentah (RAW)**: [Google Drive - Raw Data](https://drive.google.com/drive/folders/1bhfCM7-LbNBZvKNgnf5wBBfmW22ciwRP?usp=drive_link)
+2. **Dataset Processed**: [Google Drive - Processed Data](https://drive.google.com/drive/folders/1c1c83MD0-cpOo8Y5-03bIE7gFxWZ6Fp4?usp=drive_link)
+3. **Dataset Labeled**: [Google Drive - Labeled Data](https://drive.google.com/drive/folders/1o7LzjfaPYcNLu8cawB7TAXjh1HRzS5__?usp=drive_link)
 
 ## 🗂️ Struktur Proyek
 
